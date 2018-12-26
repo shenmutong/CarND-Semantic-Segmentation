@@ -189,7 +189,7 @@ def run():
 
         # TODO: Train NN using the train_nn function
         #according to the test data by test 12 and 50.I decided that epochs is set to 48
-        epochs = 50#12
+        epochs = 48#12
         batch_size = 5
         
         #saver = tf.train.Saver()
